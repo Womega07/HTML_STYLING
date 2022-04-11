@@ -1,6 +1,7 @@
 # HTML_STYLING
 
 # Description
+
 1. Add basic styling to html docs (via stdin) to prepare them for turning into PDF documents.
 
   Takes HTML output (from markdown) through stdin and adds some basic styling to it ready to pipe it into an html to pdf generator.
